@@ -3,6 +3,8 @@ from symptoms import SYMPTOMS
 from ai_engine import calculate_urgency, assign_priority
 from scheduler import generate_token
 from db import save_call
+from db import save_call
+
 
 
 
